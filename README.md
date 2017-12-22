@@ -14,7 +14,7 @@ http://agridl.tari.gov.tw/gs32/ir_coa/index.htm
 ##國家教育研究院--研發成果整合平臺<br>
 https://rh.naer.edu.tw/
 <br>
-##長庚大學--整合orcid機制<br>
+##長庚大學機構典藏--整合orcid機制<br>
 http://ir.lib.cgu.edu.tw/gs32/ir_cgu/index.htm
 <br>
 ##新編客家語六腔辭典<br>
