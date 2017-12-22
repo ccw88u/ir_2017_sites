@@ -20,60 +20,67 @@ http://ir.lib.cgu.edu.tw/gs32/ir_cgu/index.htm
 ##新編客家語六腔辭典<br>
 http://140.111.14.238/gs32/dic_hakka/gosystem.htm
 
-##臺灣博碩士論文知識加值系統：自由的博碩士學位論文全文資料庫 2017擴充案
+##臺灣博碩士論文知識加值系統：自由的博碩士學位論文全文資料庫 2017擴充案<br>
 https://ndltd.ncl.edu.tw
-
-##國父紀念館--中山學術資料庫系統 2017擴充案
+<br>
+##國父紀念館--中山學術資料庫系統 2017擴充案<br>
 http://sunology.culture.tw
-
-##亞東技術學院學習地圖系統
+<br>
+##亞東技術學院學習地圖系統<br>
 http://120.96.33.45/gs32/lmap_oit/index.htm
-
-##國立臺灣圖書館 數位典藏查詢系統
+<br>
+##國立臺灣圖書館 數位典藏查詢系統<br>
 http://192.192.13.191/gs32/ir_ntl/index.htm
+<br>
 
-
-2017年以前列表
-##校史與特藏數位資料管理系統
+2017年以前列表<br>
+##校史與特藏數位資料管理系統<br>
 http://sc.lib.nthu.edu.tw/
-
-##國圖人社引文系統
+<br>
+##國圖人社引文系統<br>
 http://tci.ncl.edu.tw
-
-##臺北市議會數位典藏
+<br>
+##臺北市議會數位典藏<br>
 http://taipeiinthemaking.tcc.gov.tw
-
-##臺灣文獻叢刊資料庫系統
+<br>
+##臺灣文獻叢刊資料庫系統<br>
 http://tcss.ith.sinica.edu.tw
-
-##政治大學歷史辭條資料庫
+<br>
+##政治大學歷史辭條資料庫<br>
 http://140.119.178.222
-
-##農業試驗所 數位典藏博物館
+<br>
+##農業試驗所 數位典藏博物館<br>
 http://digimuse.tari.gov.tw
-
-##中央研究院--地圖數位典藏查詢系統
+<br>
+##中央研究院--地圖數位典藏查詢系統<br>
 http://map.rchss.sinica.edu.tw
-
-##中研院人文社會聯圖期刊目次服務暨管理系統
+<br>
+##中研院人文社會聯圖期刊目次服務暨管理系統<br>
 http://archive.hslib.sinica.edu.tw/gs32/ccs_shu/index.htm
-##中研院人文社會聯圖特藏影像系統
+<br>
+##中研院人文社會聯圖特藏影像系統<br>
 http://archive.hslib.sinica.edu.tw/gs32/shu/index.htm
-
-##臺聯大博碩士論文系統
-
-##清大
+<br>
+##臺聯大博碩士論文系統<br>
+<br>
+##清大<br>
 http://etd.lib.nctu.edu.tw/gs32/stdcdr_nthu/index.htm
-##交大
+<br>
+##交大<br>
 http://etd.lib.nctu.edu.tw/gs32/stdcdr_nctu/index.htm
-##陽明
+<br>
+##陽明<br>
 http://etd.lib.nctu.edu.tw/gs32/stdcdr_ym/index.htm
-##中央
+<br>
+##中央<br>
 http://etd.lib.nctu.edu.tw/gs32/stdcdr_ncu/index.htm
-##政治大學
+<br>
+##政治大學<br>
 http://thesis.lib.nccu.edu.tw/gs32/index.htm
-##臺灣師範大學
+<br>
+##臺灣師範大學<br>
 http://etds.lib.ntnu.edu.tw/gs32/stdcdr_ntnu/index.htm
+<br>
 ....眾多學校端博碩士系統
 
 
