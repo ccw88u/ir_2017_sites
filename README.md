@@ -1,23 +1,23 @@
 # ir_2017_sites
 python2.7.13  python cgi
 
-完成專案記事，有空來以下網站逛逛，都是正式對外開放網站。
+完成專案記事，有空來以下網站逛逛，都是正式對外開放網站。<br>
 
-[2017]
+[2017]<br>
 
-##國立公共資訊圖書館數位典藏服務網 
+##國立公共資訊圖書館數位典藏服務網<br> 
 http://203.68.22.48/gs32/ir_nlpi/index.htm
-
-##行政院農業委員會機構典藏系統
+<br>
+##行政院農業委員會機構典藏系統<br>
 http://agridl.tari.gov.tw/gs32/ir_coa/index.htm
-
-##國家教育研究院--研發成果整合平臺
+<br>
+##國家教育研究院--研發成果整合平臺<br>
 https://rh.naer.edu.tw/
-
-##長庚大學--整合orcid機制
+<br>
+##長庚大學--整合orcid機制<br>
 http://ir.lib.cgu.edu.tw/gs32/ir_cgu/index.htm
-
-##新編客家語六腔辭典
+<br>
+##新編客家語六腔辭典<br>
 http://140.111.14.238/gs32/dic_hakka/gosystem.htm
 
 ##臺灣博碩士論文知識加值系統：自由的博碩士學位論文全文資料庫 2017擴充案
