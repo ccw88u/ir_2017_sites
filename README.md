@@ -60,6 +60,9 @@ http://archive.hslib.sinica.edu.tw/gs32/ccs_shu/index.htm
 <br>
 ##中研院人文社會聯圖特藏影像系統<br>
 http://archive.hslib.sinica.edu.tw/gs32/shu/index.htm
+...眾多數位/機構..典藏系統
+
+
 <br>
 ##臺聯大博碩士論文系統<br>
 <br>
