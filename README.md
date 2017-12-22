@@ -1,5 +1,5 @@
 # ir_2017_sites
-python2.7.13  python cgi
+python web app
 
 完成專案記事，有空來以下網站逛逛，都是正式對外開放網站。<br>
 
