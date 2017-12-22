@@ -1,7 +1,7 @@
 # ir_2017_sites
 python2.7.13  python cgi
 
-2017完成專案記事，有空來以下網站用用。都是正式對外開放
+2017完成專案記事，有空來以下網站逛逛，都是正式對外開放網站。
 
 ##國立公共資訊圖書館數位典藏服務網 
 http://203.68.22.48/gs32/ir_nlpi/index.htm
@@ -23,3 +23,9 @@ https://ndltd.ncl.edu.tw
 
 ##國父紀念館--中山學術資料庫系統 2017擴充案
 http://sunology.culture.tw
+
+##亞東技術學院學習地圖系統
+http://120.96.33.45/gs32/lmap_oit/index.htm
+
+##國立臺灣圖書館 數位典藏查詢系統
+http://192.192.13.191/gs32/ir_ntl/index.htm
