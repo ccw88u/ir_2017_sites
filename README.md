@@ -37,6 +37,9 @@ http://192.192.13.191/gs32/ir_ntl/index.htm
 ##校史與特藏數位資料管理系統
 http://sc.lib.nthu.edu.tw/
 
+##國圖人社引文系統
+http://tci.ncl.edu.tw
+
 ##臺北市議會數位典藏
 http://taipeiinthemaking.tcc.gov.tw
 
